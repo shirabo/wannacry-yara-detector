@@ -1,0 +1,1 @@
+# wannacry-yara-detector
